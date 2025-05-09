@@ -3,6 +3,9 @@
 
 本项目仅用于专业课期末作业
 
+致谢：
+[@daidaibg](https://github.com/daidaibg)
+
 **项目展示** 
 
 ![项目展示](perview/perview.gif)
