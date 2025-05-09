@@ -8,8 +8,7 @@
 ![项目展示](perview/perview.gif)
 
 ### 项目预览地址
-
-[https://www.daidaibg.com/bigscreen-vue3](https://www.daidaibg.com/bigscreen-vue3)
+[https://karenlhao.github.io/data_visualization_Vue3/](https://karenlhao.github.io/data_visualization_Vue3/))
 
 
 
